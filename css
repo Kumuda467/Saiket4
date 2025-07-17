@@ -1,0 +1,43 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f9f9;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.container {
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  width: 400px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+#options {
+  list-style-type: none;
+  padding: 0;
+}
+
+#options li {
+  margin: 10px 0;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #0077b6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: default;
+}
