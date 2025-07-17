@@ -6,7 +6,7 @@
 
 - **Responsive To-Do List Application**
 
-Built a fully functional to-do list app using HTML, CSS, and JavaScript. Users can add, edit, delete, and mark tasks as completed. The application features intuitive user interactions and is styled with responsive CSS to ensure a seamless experience across different screen sizes and devices.
+- Built a fully functional to-do list app using HTML, CSS, and JavaScript. Users can add, edit, delete, and mark tasks as completed. The application features intuitive user   interactions and is styled with responsive CSS to ensure a seamless experience across different screen sizes and devices.
 
 - **Key Features:**
 
